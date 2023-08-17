@@ -1,6 +1,3 @@
-Sure, here's a README.md template you can use for your GitHub repository for the WordPress custom plugin named "IsraelPost-WooCommerce-Plugin":
-
-```markdown
 # IsraelPost-WooCommerce-Plugin
 
 ## Overview
